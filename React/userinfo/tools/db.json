@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Marek",
+      "lastName": "Kovac",
+      "email": "kovac@abc.com",
+      "role": "Storeman",
+      "birthDate": "24/09/2005",
+      "volunteer": "false",
+      "salary": "900"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "janedoe@abc.com",
+      "role": "Technician",
+      "birthDate": "23/12/2001",
+      "volunteer": "true",
+      "salary": "0"
+    },
+    {
+      "id": 3,
+      "firstName": "Juraj",
+      "lastName": "Adamko",
+      "email": "adamko@abc.com",
+      "role": "Technician",
+      "birthDate": "11/03/2002",
+      "volunteer": "false",
+      "salary": "230"
+    },
+    {
+      "id": 4,
+      "firstName": "Tomas",
+      "lastName": "Andrek",
+      "email": "tomas@abc.com",
+      "role": "Admin",
+      "birthDate": "26/07/1985",
+      "volunteer": "false",
+      "salary": "800"
+    }
+  ]
+}
